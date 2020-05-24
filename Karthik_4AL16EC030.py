@@ -9,7 +9,7 @@ while count<3: #counts for 3 attempts
     password=input('Enter your password:')
 #print('****************************************************************************\n')
 
-    if username=='Micheal'and password=='3$WT89x':
+    if username=='Micheal'and password=='e3$WT89x':
         #preinput data
         print('\nYou Have Sucessfully Loggedin!!\n ')
         break
@@ -23,3 +23,5 @@ while count<3: #counts for 3 attempts
             # waits for 3 attemps after that prog terminates
             print('\nToo many attempts!!! Your account as been locked\n ')
 print('****************************************************************************\n')
+
+# Very good, nice approach. your code is working fine
