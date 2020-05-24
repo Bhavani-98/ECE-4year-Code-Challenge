@@ -13,3 +13,13 @@ while count<4:
 if count>3:
  	   print('Account blocked')
 
+        
+        # Your code has small bug, fix it.
+        Enter correct username and password to continue
+Enter username: Micheal
+Micheal
+Enter password: e3$WT89x
+e3$WT89x
+Access granted
+Account blocked
+>>> 
