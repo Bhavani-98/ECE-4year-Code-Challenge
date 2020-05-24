@@ -24,4 +24,4 @@ while count<3: #counts for 3 attempts
             print('\nToo many attempts!!! Your account as been locked\n ')
 print('****************************************************************************\n')
 
-# Very good, nice approach. your code is working fine
+# Very good, nice approach. your code is working fine.
